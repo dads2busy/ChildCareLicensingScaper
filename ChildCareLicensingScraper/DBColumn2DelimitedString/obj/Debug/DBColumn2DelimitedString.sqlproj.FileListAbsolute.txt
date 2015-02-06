@@ -1,0 +1,10 @@
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\bin\Debug\DBColumn2DelimitedString.dacpac
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\bin\Debug\DBColumn2DelimitedString.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\bin\Debug\DBColumn2DelimitedString.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\DBColumn2DelimitedString.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\DBColumn2DelimitedString.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\Model.xml
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\refactor.xml
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\postdeploy.sql
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\obj\Debug\predeploy.sql

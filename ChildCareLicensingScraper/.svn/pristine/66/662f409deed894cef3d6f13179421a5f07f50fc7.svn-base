@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ChildCareLicensingCleaner
+{
+    public class Facility
+    {
+        public int FacilityLicID { get; set; }
+        public string FacilityName { get; set; }
+        public string StreetAddress1 { get; set; }
+        public string StreetAddress2 { get; set; }
+        public string City { get; set; }
+        public string State { get; set; }
+        public string Zip { get; set; }
+        public string FacilityPhone { get; set; }
+        public string FacilityType { get; set; }
+        public string LicenseType { get; set; }
+        public string ExpirationDate { get; set; }
+        public string Administrator { get; set; }
+        public string BusinessHours { get; set; }
+        public string Capacity { get; set; }
+        public string Ages { get; set; }
+        public string Inspector { get; set; }
+        public string InspectorPhone { get; set; }
+        public List<string> Inspections { get; set; }
+
+        public Facility(int licID)
+        {
+            FacilityLicID = licID;
+            StreetAddress2 = "";
+            State = "VA";
+        }
+    }
+}

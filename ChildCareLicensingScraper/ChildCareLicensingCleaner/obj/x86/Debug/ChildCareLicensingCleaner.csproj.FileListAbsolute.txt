@@ -1,0 +1,6 @@
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\bin\Debug\ChildCareLicensingCleaner.exe.config
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\bin\Debug\ChildCareLicensingCleaner.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\bin\Debug\ChildCareLicensingCleaner.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\obj\x86\Debug\ChildCareLicensingCleaner.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\ChildCareLicensingCleaner\obj\x86\Debug\ChildCareLicensingCleaner.pdb

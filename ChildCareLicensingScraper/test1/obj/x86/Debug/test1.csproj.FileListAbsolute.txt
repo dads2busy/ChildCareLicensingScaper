@@ -1,0 +1,5 @@
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\test1\bin\Debug\test1.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\test1\bin\Debug\test1.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\test1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\test1\obj\x86\Debug\test1.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\test1\obj\x86\Debug\test1.pdb

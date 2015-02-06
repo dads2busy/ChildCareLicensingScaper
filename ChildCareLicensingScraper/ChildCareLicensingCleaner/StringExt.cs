@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections;
+using System.Text;
+using System.Globalization;
+using System.Collections.Generic;
+using System.Data;
+
+namespace ChildCareLicensingCleaner
+{
+    public static class StringExt
+    {
+        public static IEnumerable<int> IndexOfAll(this string haystack, string needle)
+        {
+            int pos = 0;
+            while ((pos=haystack.IndexOf(needle, pos) ) > 0)
+            {
+                yield return pos;
+                pos++;
+            }
+        }
+
+        public static IEnumerable<string> AllStringsFromIndexes(this IEnumerable<int> ints, string haystack, string needle)
+        {
+            foreach (int Pos in ints)
+            {
+                yield return haystack.Substring(Pos + needle.Length, ((haystack.IndexOf(";", Pos)) - (Pos + needle.Length)));
+            }
+        }
+
+
+        public static string LicNormal(this string s)
+        {
+            string normalized = s.Normalize(NormalizationForm.FormD);
+
+            StringBuilder resultBuilder = new StringBuilder();
+            foreach (var character in normalized)
+            {
+                UnicodeCategory category = CharUnicodeInfo.GetUnicodeCategory(character);
+                if (category == UnicodeCategory.LowercaseLetter
+                    || category == UnicodeCategory.UppercaseLetter
+                    || category == UnicodeCategory.DecimalDigitNumber
+                    || category == UnicodeCategory.SpaceSeparator
+                    || category == UnicodeCategory.OtherPunctuation
+                    || category == UnicodeCategory.OpenPunctuation
+                    || category == UnicodeCategory.ClosePunctuation
+                    || category == UnicodeCategory.DashPunctuation
+                    || category == UnicodeCategory.Control
+                    )
+                    resultBuilder.Append(character);
+            }
+            string retString = resultBuilder.ToString().Trim();
+            return retString;
+        }
+
+        public static IEnumerable<IDataRecord> AsEnumerable(this IDataReader reader)
+        {
+            while (reader.Read())
+                yield return reader;
+        }
+    }
+}

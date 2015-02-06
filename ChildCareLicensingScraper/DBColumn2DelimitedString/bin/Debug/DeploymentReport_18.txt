@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [DBColumn2DelimitedString] (Assembly)
+     Create
+       [DBColumn2DelimitedString] (Assembly)
+
+** Supporting actions
+     Drop
+       [dbo].[DBStringOccurenceCount] (Function)
+       [dbo].[RegExMatch] (Function)
+     Create
+       [dbo].[DBStringOccurenceCount] (Function)
+       [dbo].[RegExMatch] (Function)

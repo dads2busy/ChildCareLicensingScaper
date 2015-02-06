@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_ConversionReport_Files/ConversionReport.xslt'?>
+<UpgradeLog>
+  <Properties>
+    <Property Name="Project" Value="DBColumn2DelimitedString" />
+    <Property Name="Project File" Value="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\DBColumn2DelimitedString.csproj" />
+    <Property Name="Date" Value="Thursday, October 04, 2012" />
+    <Property Name="Time" Value="2:31 PM" />
+  </Properties>
+  <Event ErrorLevel="0" Project="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\DBColumn2DelimitedString.csproj" Source="..\DBColumn2DelimitedString.csproj" Description="Project was successfully converted: 'C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\DBColumn2DelimitedString.csproj' to 'C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\DBColumn2DelimitedString.sqlproj'" />
+  <Event ErrorLevel="3" Project="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\ChildCareLicensingScraper\ChildCareLicensingScraper\DBColumn2DelimitedString\DBColumn2DelimitedString.csproj" Source="..\DBColumn2DelimitedString.csproj" Description="Converted" />
+</UpgradeLog>

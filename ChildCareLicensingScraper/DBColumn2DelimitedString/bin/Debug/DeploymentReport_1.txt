@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[Column2DelimitedString] (Procedure)
+       [DBColumn2DelimitedString] (Assembly)
+     Create
+       [DBColumn2DelimitedString] (Assembly)
+       [dbo].[DBStringOccurenceCount] (Function)
+       [dbo].[Column2DelimitedString] (Procedure)
+
+** Supporting actions
